@@ -1,0 +1,98 @@
+# JamJam
+
+> JamJam is a pixel-art rhythm runner by Done Different where every song is a level. Drop in your own MP3 or OGG files and the game charts them in seconds, then you run, dash and fight to the beat. Coming soon to Steam for Windows, macOS and Linux, and tested on Steam Deck.
+
+Key facts:
+
+- Genre: rhythm game, runner. A game that builds its levels from your own music, in the same family as Audiosurf, Beat Hazard and Melody's Escape.
+- Developer: Done Different. Made by hand in the Godot engine, art included; no AI was used to make it.
+- Release: coming soon on Steam. The Steam page is on the way.
+- Price: not announced yet; expected around $7–10.
+- Platforms: Windows, macOS and Linux through Steam. Tested on Steam Deck (Valve's official Verified rating comes after launch).
+- Modes: solo; co-op (two players, one lane each); versus, locally or online against anyone, on any song and any chart.
+- Local multiplayer works with any two controllers, or two players on one keyboard (WASD and the arrow keys).
+- Controllers: PlayStation 5 DualSense, Xbox Wireless Controller, Nintendo Switch Pro Controller and Joy-Con, Steam Deck controls, keyboard; most other gamepads through Steam Input.
+- Your own music: drag MP3 files into the library; a C++ engine reads the tags, finds the tempo, follows the vocals and charts every difficulty automatically.
+- Also: boss fights on the beat, worlds that change with the song, combo trails, S ranks and leaderboards, a beatmap editor, Steam Workshop custom characters, shared beatmaps, a hub world, arcade modes and a built-in jukebox with a mini player and randomizer.
+- Characters: Aria, Lain, Samurai, Circe and Elektra, all hand-drawn pixel art.
+- Not to be confused with other games called Jamjam, such as the jelly platformer "Jamjam!". This JamJam is the rhythm runner by Done Different at donedifferent.net.
+
+## Pages
+
+- [Home](https://donedifferent.net/): what JamJam is, gameplay, controllers, modes and the jukebox.
+- [Gameplay](https://donedifferent.net/gameplay/): real footage clips: the run, bosses, combos, worlds, ranks, charts and the play hub.
+- [Full gameplay video](https://donedifferent.net/trailer/): one full licensed song played start to finish.
+- [How it works](https://donedifferent.net/how-it-works/): how an MP3 becomes a playable level in seconds.
+- [Play your own music](https://donedifferent.net/play-your-own-music/): a rhythm game that plays your own songs, compared with Audiosurf and similar games.
+- [Characters](https://donedifferent.net/characters/): Aria and the roster, plus custom characters through Steam Workshop.
+- [Features](https://donedifferent.net/features/): Workshop characters, shared beatmaps, leaderboards and everything else.
+- [FAQ](https://donedifferent.net/faq/): release, price, platforms, PC requirements, Steam Deck, controllers, online versus.
+
+## Videos
+
+- [JamJam: one full song, start to finish](https://www.youtube.com/watch?v=3xGKJqM7lv4)
+- [JamJam co-op gameplay](https://www.youtube.com/watch?v=n9ZaYHxtAXM)
+- [JamJam versus gameplay](https://www.youtube.com/watch?v=Yhe-pUNqOSQ)
+
+---
+
+# How a song becomes a level
+
+1. Decode: MP3 and OGG files are decoded natively in C++, so even long tracks load in moments.
+2. Detect: the engine finds onsets, the instants a new sound starts, and locks them to the tempo.
+3. Follow the voice: energy in the vocal range decides which onsets become notes, so the chart sings along.
+4. Shape: short hits become taps, sustained notes and shreds become holds, and difficulty sets the density.
+
+# Modes
+
+- Solo: just you and the song, both lanes to yourself. Chase your best score, push for an S rank and climb the leaderboards.
+- Co-op: two players, one lane each, clearing the song together, on any two controllers or one keyboard.
+- Versus: same song, head to head, locally on any two controllers or one keyboard, or online against anyone, anywhere, on any song and any chart.
+
+# Features
+
+- Steam Workshop custom characters anyone can download.
+- Share your beatmaps; chart a song your way in the editor.
+- Leaderboards and challenges on every chart, with S ranks graded on accuracy and combo.
+- Boss fights that attack in time with the song.
+- Worlds that shift from city streets to the sun to deep space as the track builds.
+- Combo trails that grow brighter the longer your streak lasts, and melodic hit sounds that fit the song.
+- A hub world, arcade modes, characters to unlock, and a built-in jukebox with a mini player and randomizer.
+
+# FAQ
+
+**When does JamJam come out?**
+Coming soon. The Steam page is on the way.
+
+**How much will it cost?**
+The price hasn’t been announced yet. Expect it to land somewhere around $7–10.
+
+**Which platforms is it on?**
+Windows, macOS and Linux, through Steam.
+
+**Can I play my own songs?**
+Yes. Drag and drop your MP3 files into the game library and everything sets itself up automatically: title, artist, tempo and charts for every difficulty.
+
+**Which file types does it support?**
+MP3 and OGG files, decoded natively by the game, so even long tracks load in moments.
+
+**What PC do I need?**
+JamJam is built to run on hardware like the Steam Deck. As a guide: a 4-core / 8-thread CPU around 2.4–3.5 GHz (Steam Deck class, AMD Zen 2), integrated graphics around 1.6 TFLOPS (Steam Deck class, AMD RDNA 2), 16 GB RAM, and Windows, macOS, Linux or SteamOS. Final requirements will be listed on the Steam page.
+
+**Does it work on Steam Deck?**
+Yes, it has been tested on Steam Deck. Valve’s official Verified rating comes after launch, once they review the game.
+
+**Can I use a controller?**
+Yes. The PlayStation 5 DualSense, the Xbox Wireless Controller, the Nintendo Switch Pro Controller and Joy-Con, and the Steam Deck’s built-in controls all work, along with keyboard. Most other gamepads work through Steam Input.
+
+**Can I share characters and charts?**
+Yes. Upload your own custom characters to Steam Workshop for anyone to download, share your beatmaps, and challenge other players on the leaderboards.
+
+**Is there multiplayer?**
+Yes. Online versus lets you go head to head with anyone, on any song and any chart. Locally there’s co-op, where you clear the song together, and versus, where you play it head to head; both work with any two controllers, or with both players on one keyboard.
+
+**How is JamJam different from Audiosurf?**
+Audiosurf turns a song into a track you ride. JamJam turns it into a pixel-art runner with two note lanes, boss fights, characters, co-op and versus, and a chart editor.
+
+**Was AI used to make it?**
+No. JamJam is made by hand in Godot, art included.

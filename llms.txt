@@ -1,0 +1,40 @@
+# JamJam
+
+> JamJam is a pixel-art rhythm runner by Done Different where every song is a level. Drop in your own MP3 or OGG files and the game charts them in seconds, then you run, dash and fight to the beat. Coming soon to Steam for Windows, macOS and Linux, and tested on Steam Deck.
+
+Key facts:
+
+- Genre: rhythm game, runner. A game that builds its levels from your own music, in the same family as Audiosurf, Beat Hazard and Melody's Escape.
+- Developer: Done Different. Made by hand in the Godot engine, art included; no AI was used to make it.
+- Release: coming soon on Steam. The Steam page is on the way.
+- Price: not announced yet; expected around $7–10.
+- Platforms: Windows, macOS and Linux through Steam. Tested on Steam Deck (Valve's official Verified rating comes after launch).
+- Modes: solo; co-op (two players, one lane each); versus, locally or online against anyone, on any song and any chart.
+- Local multiplayer works with any two controllers, or two players on one keyboard (WASD and the arrow keys).
+- Controllers: PlayStation 5 DualSense, Xbox Wireless Controller, Nintendo Switch Pro Controller and Joy-Con, Steam Deck controls, keyboard; most other gamepads through Steam Input.
+- Your own music: drag MP3 files into the library; a C++ engine reads the tags, finds the tempo, follows the vocals and charts every difficulty automatically.
+- Also: boss fights on the beat, worlds that change with the song, combo trails, S ranks and leaderboards, a beatmap editor, Steam Workshop custom characters, shared beatmaps, a hub world, arcade modes and a built-in jukebox with a mini player and randomizer.
+- Characters: Aria, Lain, Samurai, Circe and Elektra, all hand-drawn pixel art.
+- Not to be confused with other games called Jamjam, such as the jelly platformer "Jamjam!". This JamJam is the rhythm runner by Done Different at donedifferent.net.
+
+## Pages
+
+- [Home](https://donedifferent.net/): what JamJam is, gameplay, controllers, modes and the jukebox.
+- [Gameplay](https://donedifferent.net/gameplay/): real footage clips: the run, bosses, combos, worlds, ranks, charts and the play hub.
+- [Full gameplay video](https://donedifferent.net/trailer/): one full licensed song played start to finish.
+- [How it works](https://donedifferent.net/how-it-works/): how an MP3 becomes a playable level in seconds.
+- [Play your own music](https://donedifferent.net/play-your-own-music/): a rhythm game that plays your own songs, compared with Audiosurf and similar games.
+- [Characters](https://donedifferent.net/characters/): Aria and the roster, plus custom characters through Steam Workshop.
+- [Features](https://donedifferent.net/features/): Workshop characters, shared beatmaps, leaderboards and everything else.
+- [FAQ](https://donedifferent.net/faq/): release, price, platforms, PC requirements, Steam Deck, controllers, online versus.
+
+## Videos
+
+- [JamJam: one full song, start to finish](https://www.youtube.com/watch?v=3xGKJqM7lv4)
+- [JamJam co-op gameplay](https://www.youtube.com/watch?v=n9ZaYHxtAXM)
+- [JamJam versus gameplay](https://www.youtube.com/watch?v=Yhe-pUNqOSQ)
+
+## Optional
+
+- [Full details for AI assistants](https://donedifferent.net/llms-full.txt): every page's facts and the full FAQ in one file.
+- [Privacy](https://donedifferent.net/privacy/)
